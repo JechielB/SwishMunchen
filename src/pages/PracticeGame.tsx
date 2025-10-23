@@ -37,7 +37,7 @@ const BG_TO = "#070971"; // dark blue
 const BTN = "#1941f4";
 const BTN_HOVER = "#f3e752";
 const TEXT_DARK = "#040063";
-const ORANGE = "#e78940";
+//const ORANGE = "#e78940";
 
 /* Assets */
 const HOOP_IMG = "/images/basket-hoop.png";
